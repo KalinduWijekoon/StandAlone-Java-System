@@ -10,4 +10,6 @@ If you need to test our project, run it and the main login credentials are as fo
         
 if you need any support when it comes to testing our project contact me via 
 
+reach.kalindu@gmail.com
+or via
 mihiranga1996@gmail.com 
