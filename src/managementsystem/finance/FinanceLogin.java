@@ -27,8 +27,8 @@ public class FinanceLogin extends javax.swing.JFrame {
     
     int xx,xy;
     final static String email = "rwedhamadura@gmail.com";
-    final static String emailpassword = "rajapura123";
-    final static String myemail = "mihiranga1996@gmail.com";
+    final static String emailpassword = "password";
+    final static String myemail = "yourmail";
     final static String username="financemng";
 
     /**
